@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    margin: auto;
+    position: relative;
+    display: inline;
+}
+#logoimg {
+    padding-top: 25px;
+    margin-left: 200px;
+    float: left;
+}
+header h2 {
+    padding-top: 25px;
+    font-size: 25px;
+}
+header h3 {
+    padding-top: 5px;
+    font-size: 10px;
+}
+ul {
+    margin-left: 67%;
+    display: inline-block;
+}
+li {
+    display: inline;
+}
+h1 {
+    font-size: 30px;
+    padding-top: 50px;
+}
+#foot {
+    align-items: center;
+}
+#pgph {
+    text-align: center;
+    max-width: 75%;
+    padding-left: 250px;
+    padding-top: 25px;
+}
+#list {
+    padding: 200px;
+}
+#cp {
+    padding-left: 200px;
+}
+h1 {
+    padding-left: 200px;
+}
+h3 {
+    padding-bottom: 25px;
+}
+p.printIconRight {
+    text-align:right ;
+    color:darkgray
+  }
+  div.vanessa {
+    text-align: left;
+    margin-left: 200px;
+    padding-top: 75px;
+    display: inline-block;
+  }
+  #van {
+      padding-top: 25px;
+      padding-left: 65px;
+  }
+  div.copyright {
+    text-align:center;
+    color:darkgray ;
+  }
+  button{
+    text-align: right;
+    color:white;
+    background-color: indianred;
+    float: right;
+    border: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 100px;
+    max-width: 100px;
+  }
+  div.smlog {
+      justify-content: center;
+      margin-left: 50%;
+
+  }
